@@ -1,0 +1,21 @@
+Contes;	Hans Christian and Andersen;1835-1837;ISBN1;Romanesque (recueil de contes);Danemark;disponible
+Orgueil et Préjugés;Jane Austen;1813;ISBN2;Romanesque (roman);Royaume-Uni;disponible
+Le Père Goriot;	Honoré de Balzac;1835;ISBN3;Romanesque (roman); France;disponible
+Décaméron;Boccace;1349-1353;ISBN5;Romanesque (recueil de nouvelles); Italie;disponible
+Fictions;Jorge Luis Borges;1944;ISBN6;Romanesque (recueil de nouvelles);Argentine;disponible
+Les Hauts de Hurlevent;Emily Brontë;1847;ISBN7;Romanesque (roman);Royaume-Uni;disponible
+L'Étranger;Albert Camus;1942;ISBN8;Romanesque (roman);France;disponible
+Les poèmes de...;Paul Celan;1952;ISBN9;Poésie (œuvre poétique);Roumanie;disponible
+Voyage au bout de la nuit; Louis-Ferdinand Céline; 1932;ISBN10;Romanesque (roman);France;disponible
+Don Quichotte;	Miguel de Cervantes;1605-1615;ISBN11;Romanesque (roman);Espagne;disponible
+Nostromo;Joseph Conrad;	1904;ISBN12;Romanesque (roman); Royaume-Uni;disponible
+Divine Comédie; Dante Alighieri;1300;ISBN13;Poésie (épopée); Italie;disponible
+Les Grandes Espérances; Charles Dickens;1861;ISBN14;Romanesque (roman);Royaume-Uni;disponible
+Jacques le Fataliste et son maître;Denis Diderot;1796;ISBN15;Romanesque (roman);France;disponible
+Berlin Alexanderplatz;Alfred Döblin;1929;ISBN16;Romanesque (roman);Allemagne;disponible
+Crime et Châtiment;Fiodor Dostoïevski;1866;ISBN17;Romanesque (roman);russe;disponible
+L'Idiot;Fiodor Dostoïevski;1869;ISBN18;Romanesque (roman);russe;disponible
+Les Démons;Fiodor Dostoïevski;1872;ISBN19;Romanesque (roman);russe;disponible
+Les Frères Karamazov;Fiodor Dostoïevski;1880;ISBN20;Romanesque (roman);russe;disponible
+Middlemarch;George Eliot;1871;ISBN21;Romanesque (roman);Royaume-Uni;disponible
+Homme invisible pour qui chantes-tu ?;	Ralph Ellison;1952;ISBN22;Romanesque (roman);États-Unis;disponible

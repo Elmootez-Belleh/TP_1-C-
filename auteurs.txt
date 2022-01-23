@@ -1,0 +1,19 @@
+Hans;Christian;H.Christian;1835-1837
+Andersen;;Andersen;1835-1837
+Jane;Austen;J.Austen;1813 
+Honoré;de Balzac;H.D.Balzac;1835 
+Boccace;;Boccace;1349-1353 
+Jorge Luis;Borges;J.L.Borges;1944 
+Emily;Brontë;E.Brontë;1847 
+Albert;Camus;A.Camus;1942 
+Paul;Celan;P.Celan;1952 
+Louis-Ferdinand;Céline;L.F.Céline; 1932 
+Miguel;de Cervantes;M.D.Cervantes;1605-1615 
+Joseph;Conrad;J.Conrad;1904 
+Dante;Alighieri;D.Alighieri;1300 
+Charles;Dickens;C.Dickens;1861 
+Denis;Diderot;D.Diderot;1796 
+Alfred;Döblin;A.Döblin;1929 
+Fiodor;Dostoïevski;F.Dostoïevski;1866 
+Ralph;Ellison;R.Ellison;1952
+George;Eliot;G.Eliot;1871
